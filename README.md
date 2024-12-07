@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kazireyazulhasan@gmail.com**
 
-- :newspaper: Check out my website **[kazireyazulhasan.com](https://kazireyazulhasan.com/)**
+- :newspaper: Check out my website **[kazireyazulhasan.com](https://kreyazulh.github.io/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
