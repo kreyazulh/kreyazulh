@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Kazi Reyazul Hasan 🚀</h1>
 
 <p align="center">
-  <img src="assets/meghalaya-trip.gif" alt="Meghalaya Trip" width="500"/>
+  <img src="assets/meghalaya-trip.gif" alt="Meghalaya Trip" width="400"/>
 </p>
 
 
