@@ -5,53 +5,41 @@
 </p>
 
 <p align="center">
-  <strong>Computer Science Undergrad | AI & ML Enthusiast | Researcher </strong>
+  <strong>Computer Science Undergrad | AI & ML Enthusiast | Researcher</strong>
 </p>
 
 ---
 
 ## About Me
 
-I'm a curious innovator from Dhaka, Bangladesh, who transforms apparently silly ideas into code—and yes, I sometimes mix up my semicolons! Embracing every mistake as a stepping stone, I keep learning along the way. Currently diving deep into deep learning, computer vision and large language models, I love tinkering with new ideas even if it means occasionally debugging my own typos.
+I'm a curious innovator from Dhaka, Bangladesh—transforming quirky ideas into code and learning with every bug and semicolon! My passion lies in deep learning, computer vision, and large language models.
 
 ---
 
-## Research & Professional Journey
+## Work & Research
 
-- **Junior AI Engineer at Robofication LLC**  
-  Leading a team to integrate cutting-edge AI features (like automated model generation and reverse engineering) into the Cameo Systems Modeler. Yes, I'm that person who tries to make machines smarter!
+- **Junior AI Engineer @ Robofication LLC**  
+  Crafting AI features that power smarter software.
   
-- **Undergraduate Research Assistant at BUET**  
-  Pioneering projects in inclusive language recognition and multi-actor authentication systems. I've even presented at international conferences (ICPR, RRPR) and secured major grants to fuel these innovations.
-  
-- **Noteworthy Projects & Awards**  
-  From a sign language recognition system (EMPATH) that outperforms benchmarks by 5–8% to a natural language–based restaurant search app—my journey is filled with accolades like Best Project Award and national honors.  
-  <details>
-    <summary>More on my journey</summary>
-    <ul>
-      <li>Presented multiple papers and secured funding from BUET’s RISE Centre and Bangladesh’s ICT Innovation Fund.</li>
-      <li>Decent academic progress and a passion for pushing technological boundaries.</li>
-    </ul>
-  </details>
+- **Research Assistant @ BUET**  
+  Driving projects in inclusive language recognition & secure authentication.
+
+🏆 Award-winning projects like EMPATH and more!
 
 ---
 
 ## Featured Projects
 
 - **[EMPATH](https://github.com/kreyazulh/EMPATH)**  
-  A MediaPipe-aided ensemble learning system using attention-based transformers to achieve state-of-the-art word-level sign language recognition.
-  
+  Ensemble learning for state-of-the-art sign language recognition.
 - **[Foodsie](https://youtu.be/G46kLlevq7s?si=kORvGAcu2on4ngsY)**  
-  A natural language–based restaurant search engine that caters to your every craving.
-  
+  A natural language–powered restaurant search engine.
 - **[Busbuddy](https://github.com/kreyazulh/CSE-408-BusBuddy-Admin-End)**  
-  An admin interface for BUET's Bus Automation service—making campus rides smoother than ever.
-  
+  An admin interface making campus rides smoother.
 - **[Derma](https://github.com/kreyazulh/Derma-Recommendation-System)**  
-  A recommendation system that scraped over 19k skincare products to help you find the perfect match.
-  
+  A recommendation system for over 19k skincare products.
 - **[Race](https://github.com/kreyazulh/CSE-316-Microcontroller-Project-and-Labworks/tree/main/project)**  
-  A hardware racing game simulation featuring custom-built cars (because why just code when you can race?).
+  A hardware racing game simulation for fun and innovation.
 
 ---
 
@@ -68,11 +56,9 @@ I'm a curious innovator from Dhaka, Bangladesh, who transforms apparently silly 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  <!-- More icons can be added as needed -->
 </p>
 
 ---
-
 
 ## GitHub Stats & Trophies
 
@@ -115,10 +101,12 @@ I'm a curious innovator from Dhaka, Bangladesh, who transforms apparently silly 
 
 ---
 
-## Let's Code & Conquer!
+## Let's Code & Conquer! 🎯
 
-If you're up for collaboration, a challenging puzzle, or just exchanging quirky puns, feel free to drop me an [email](mailto:kazireyazulhasan@gmail.com) or connect on social media. I promise—together, we can push the boundaries of innovation (and maybe share a laugh or two along the way)!
+If you're up for collaboration, drop me an [email](mailto:kazireyazulhasan@gmail.com) or connect on social media. Together, we'll push innovation to the next level—and maybe share a laugh or two!
 
 ---
 
-*Inspired by my journey and my passion for blending research with creativity.*  
+<p align="center">
+  <img src="https://profile-counter.glitch.me/kreyazulh/count.svg" alt="Visitor Count" />
+</p>
