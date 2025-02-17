@@ -31,16 +31,15 @@ I'm a curious innovator from Dhaka, Bangladesh—transforming quirky ideas into 
 
 ## Featured Projects
 
-- **[EMPATH](https://github.com/kreyazulh/EMPATH)**  
-  Ensemble learning for state-of-the-art sign language recognition.
-- **[Foodsie](https://youtu.be/G46kLlevq7s?si=kORvGAcu2on4ngsY)**  
-  A natural language–powered restaurant search engine.
-- **[Busbuddy](https://github.com/kreyazulh/CSE-408-BusBuddy-Admin-End)**  
-  An admin interface making campus rides smoother.
-- **[Derma](https://github.com/kreyazulh/Derma-Recommendation-System)**  
-  A recommendation system for over 19k skincare products.
-- **[Race](https://github.com/kreyazulh/CSE-316-Microcontroller-Project-and-Labworks/tree/main/project)**  
-  A hardware racing game simulation for fun and innovation.
+| **Project** | **Description** | **Tech Stack** |
+| ----------- | --------------- | -------------- |
+| [EMPATH](https://github.com/kreyazulh/EMPATH) | Ensemble learning for state-of-the-art sign language recognition. | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30" alt="TensorFlow"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="30" alt="Keras"/> <img src="https://d2l.ai/_images/transformer.svg" width="25" alt="Transformers"/> <img src="https://chuoling.github.io/mediapipe/images/logo_horizontal_color.png" width="80" alt="MediaPipe"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="30" alt="OpenCV"/> |
+| [Foodsie](https://youtu.be/G46kLlevq7s?si=kORvGAcu2on4ngsY) | Natural language–powered restaurant search engine. | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="30" alt="Spring Boot"/> <img src="https://svgicons.com/api/ogimage/?id=112084&n=thymeleaf-icon" width="30" alt="Thymeleaf"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30" alt="PostgreSQL"/> <img src="https://www.svgrepo.com/show/306500/openai.svg" width="30" alt="OpenAI"/> <img src="https://community.appinventor.mit.edu/uploads/default/2ad031bc25a55c4d3f55ff5ead8b2de63cdf28bf" width="30" alt="Google Vision API"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="30" alt="Azure"/> |
+| [Busbuddy](https://github.com/kreyazulh/CSE-408-BusBuddy-Admin-End) | Admin interface for smoother campus rides. | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="30" alt="Node.js"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="30" alt="Svelte"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30" alt="PostgreSQL"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30" alt="AWS"/> |
+| [Derma](https://github.com/kreyazulh/Derma-Recommendation-System) | Recommendation system for over 19k skincare products. | <img src="https://cdn2.hubspot.net/hubfs/4367560/Imported_Blog_Media/scrapy.png" width="30" alt="Scrapy"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="30" alt="Scikit-learn"/> <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="80" alt="Streamlit"/> <img src="https://community.appinventor.mit.edu/uploads/default/2ad031bc25a55c4d3f55ff5ead8b2de63cdf28bf" width="30" alt="Google Image API"/> |
+| [Race](https://github.com/kreyazulh/CSE-316-Microcontroller-Project-and-Labworks/tree/main/project) | Hardware racing game simulation for fun and innovation. | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="30" alt="Arduino"/> |
+
+
 
 ---
 
