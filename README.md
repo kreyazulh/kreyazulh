@@ -1,8 +1,9 @@
 <h1 align="center">Hey there, I'm Kazi Reyazul Hasan 🚀</h1>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnUxMHkwemR6c2d2a29yMWw5NGNjMGx6MjZ5NmxtZ3R5czFvZ2NkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" alt="Coding in Action" width="200" />
+  <img src="assets/meghalaya-trip.gif" alt="Meghalaya Trip" width="500"/>
 </p>
+
 
 <p align="center">
   <strong>Computer Science Undergrad | AI & ML Enthusiast | Researcher</strong>
