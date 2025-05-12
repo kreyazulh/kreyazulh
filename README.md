@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <strong>Computer Science Undergrad | AI & ML Enthusiast | Researcher</strong>
+  <strong>Computer Science Graduate | AI & ML Enthusiast | Researcher</strong>
 </p>
 
 ---
