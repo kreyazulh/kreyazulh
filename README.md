@@ -106,10 +106,11 @@ I am a curious innovator from Dhaka, Bangladesh—transforming quirky ideas into
 
 ## Let's Code & Conquer! 🎯
 
-If you're up for collaboration, drop me an [email](mailto:kazireyazulhasan@gmail.com) or connect on social media. Together, we'll push innovation to the next level—and maybe share a laugh or two!
+If you're up for collaboration, drop me an [email](mailto:kazireyazulhasan@gmail.com) or connect on social media. Together, we'll push innovation to the next level and maybe share a laugh or two!
 
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/kreyazulh/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=kreyazulh&label=Visitors&color=0e75b6&style=flat" alt="Visitor Count" />
 </p>
+
