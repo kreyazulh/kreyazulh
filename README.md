@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Kazi Reyazul Hasan 🚀</h1>
+<h1 align="center">Hey there, I'm Kazi Reyazul Hasan </h1>
 
 <p align="center">
   <img src="assets/meghalaya-trip.gif" alt="Meghalaya Trip" width="400"/>
@@ -13,17 +13,20 @@
 
 ## About Me
 
-I'm a curious innovator from Dhaka, Bangladesh—transforming quirky ideas into code and learning with every bug and semicolon! My passion lies in deep learning, computer vision, and large language models.
+I am a curious innovator from Dhaka, Bangladesh—transforming quirky ideas into code and learning with every bug and torch shape mismatch! My passion lies in deep learning, computer vision, and large language models.
 
 ---
 
 ## Work & Research
 
+- **Software Engineer R&D @ TigerIT Bangladesh Limited (Present)**  
+  Developing cutting-edge facial and iris recognition research and software.
+
 - **Junior AI Engineer @ Robofication LLC**  
-  Crafting AI features that power smarter software.
+  Crafted AI features that power sysmodeler and MBSE software.
   
-- **Research Assistant @ BUET**  
-  Driving projects in inclusive language recognition & secure authentication.
+- **Research Assistant @ BUET (Present)**  
+  Driving projects in inclusive language recognition, secure authentication and computer vision.
 
 🏆 Award-winning projects like EMPATH and more!
 
